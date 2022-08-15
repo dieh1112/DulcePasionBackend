@@ -8,8 +8,9 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="stri"/>
 			<item value="sdf"/>
+			<item value="platillo"/>
+			<item value="stri"/>
 			<item value="idCli"/>
 			<item value="ceviche"/>
 			<item value="GenerarPedidoDTO"/>
